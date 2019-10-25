@@ -1,3 +1,5 @@
+![](https://github.com/FlorianLouvetRN/linkheader_parser/workflows/Python%20package/badge.svg)
+
 # linkheader_parser
 
 This is a parser for HTTP link header. This package does not cover 100% of the RFC definition of LinkHeaders, but should work in 99% of common cases.
