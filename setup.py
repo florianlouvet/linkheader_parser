@@ -8,15 +8,16 @@ def readme():
 
 setup(
     name='linkheader_parser',
-    version='0.1',
+    version='0.5',
     description='Python parser for LinkHeader',
-    url='',
+    url='https://github.com/FlorianLouvetRN/linkheader_parser',
     author='Florian Louvet',
     license='Apache License 2.0',
     packages=['linkheader_parser'],
     install_requires=[],
     zip_safe=False,
     long_description=readme(),
+    long_description_content_type="text/markdown",
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'License :: OSI Approved :: Apache Software License',
