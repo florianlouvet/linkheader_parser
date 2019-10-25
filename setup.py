@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name='linkheader_parser',
-    version='0.5',
+    version='0.6',
     description='Python parser for LinkHeader',
     url='https://github.com/FlorianLouvetRN/linkheader_parser',
     author='Florian Louvet',
